@@ -1,0 +1,10 @@
+/target
+/chromedriver.log
+/test-output
+.settings
+/testLogs
+/.classpath
+/bin
+/.idea
+*.iml
+/allure-results
